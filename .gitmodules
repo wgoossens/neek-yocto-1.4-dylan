@@ -1,3 +1,6 @@
 [submodule "meta-nios2"]
 	path = meta-nios2
 	url = https://github.com/wgoossens/meta-nios2.git
+[submodule "meta-sourcery"]
+	path = meta-sourcery
+	url = git://github.com/MentorEmbedded/meta-sourcery.git
