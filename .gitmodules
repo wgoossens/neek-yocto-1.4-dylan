@@ -4,3 +4,6 @@
 [submodule "meta-sourcery"]
 	path = meta-sourcery
 	url = git://github.com/MentorEmbedded/meta-sourcery.git
+[submodule "yocto"]
+	path = yocto
+	url = git://git.yoctoproject.org/poky.git
