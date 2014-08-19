@@ -1,0 +1,8 @@
+bitbake.lock
+cache
+conf/sanity_info
+downloads
+pseudodone
+sourceryg++-2013*
+sstate-cache
+tmp
