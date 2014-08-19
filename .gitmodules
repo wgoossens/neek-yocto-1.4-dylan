@@ -1,0 +1,3 @@
+[submodule "meta-nios2"]
+	path = meta-nios2
+	url = https://github.com/wgoossens/meta-nios2.git
